@@ -1,3 +1,9 @@
+#Adding data files to make git push possible
+movies_metadata.csv
+credits.csv
+keywords.csv
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
